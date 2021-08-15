@@ -1,16 +1,18 @@
-### Hi there 👋
+## I'm Charlie / Charlotte
 
-<!--
-**TrueTamashii/TrueTamashii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+=====================================================================
 
-Here are some ideas to get you started:
+#### Summary:
+- 🙆‍♀️ My pronouns are She / They
+- 💻 I mainly code in C# but I know some other langauges partially
+- 🏫 I'm still learning so I will get things wrong
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Current:
+- 👢 BOOT is broken with ci and needs better implimentation
+- 🔢 RCH needs a toggle
+- ✅ I plan on learning how to make Gorila Tag Quest mods
+
+
+=====================================================================
+
+##### [Auralius is cool](https://github.com/auralius-dev) <!-- ♥️ -->
