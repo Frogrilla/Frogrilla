@@ -11,6 +11,7 @@
 - 👢 BOOT is broken with Computer Interface I think and needs better implimentation
 - 🔢 RCH needs a toggle
 - ✅ I plan on learning how to make Gorila Tag Quest mods
+- ✏️ Might draw new thumbnails for my mods
 
 
 =====================================================================
