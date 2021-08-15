@@ -8,7 +8,7 @@
 - 🏫 I'm still learning so I will get things wrong
 
 #### Current:
-- 👢 BOOT is broken with ci and needs better implimentation
+- 👢 BOOT is broken with Computer Interface I think and needs better implimentation
 - 🔢 RCH needs a toggle
 - ✅ I plan on learning how to make Gorila Tag Quest mods
 
