@@ -4,7 +4,7 @@
 
 #### Summary:
 - 🙆‍♀️ My pronouns are She / They
-- 💻 I mainly code in C# but I know some other langauges partially
+- 💻 I mainly code in C# but I know some other languages partially
 - 🏫 I'm still learning so I will get things wrong
 
 #### Current:
